@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synapse X", "Synapse X.csproj", "{536375E3-4724-4FED-ADB4-D71F2C0FEBF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1.csproj", "{5E29D3EA-A3B8-45AB-B24A-CA4681D70627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{536375E3-4724-4FED-ADB4-D71F2C0FEBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536375E3-4724-4FED-ADB4-D71F2C0FEBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536375E3-4724-4FED-ADB4-D71F2C0FEBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536375E3-4724-4FED-ADB4-D71F2C0FEBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E29D3EA-A3B8-45AB-B24A-CA4681D70627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E29D3EA-A3B8-45AB-B24A-CA4681D70627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E29D3EA-A3B8-45AB-B24A-CA4681D70627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E29D3EA-A3B8-45AB-B24A-CA4681D70627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {331BF96D-9924-47E5-84CE-6F090055B698}
+	EndGlobalSection
+EndGlobal
